@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/SergeyIvanovDevelop/Holography-Chat">
-    <img alt="Robot-Rolly" src="./resources/logo.gif"/>
+    <img alt="Robot-Rolly" src="./resources/logo.png"/>
   </a>
 </p>
 <h1 align="center">
