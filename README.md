@@ -4,7 +4,7 @@
 
 ## Holography Client &middot; [![GitHub license](https://img.shields.io/badge/license-CC%20BY--NC--SA%203.0-blue)](./LICENSE) [![Java](https://img.shields.io/badge/Java-SE8-blue)](https://www.java.com/) [![Android Studio](https://img.shields.io/badge/IDE-Android%20Studio-lightgrey)](https://developer.android.com/studio) [![LinkedIn](https://img.shields.io/badge/linkedin-Sergey%20Ivanov-blue)](https://www.linkedin.com/in/sergey-ivanov-33413823a/) [![Telegram](https://img.shields.io/badge/telegram-%40SergeyIvanov__dev-blueviolet)](https://t.me/SergeyIvanov_dev) ##
 
-This branch of the repository contains the code of an `Android` application that allows you to broadcast a video stream from a video camera/screen (including when this application screen is hidden) of an `Android` device to a remote `Android` device with server software.
+This branch of the repository contains the code of an `Android` application that allows you to broadcast a video stream from a screen (including when this application screen is hidden) of an `Android` device to a remote `Android` device with server software.
 
 ## :computer: Getting Started  ##
 
