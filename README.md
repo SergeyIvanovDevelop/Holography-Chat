@@ -38,5 +38,13 @@ This software allows you to display the received video stream in four images rot
 
 7. Run the `Android` application
 
+**Step 8**<br>
+
+8. After the first launch, the application will not crash. Find the file `/storage/emulated/0/Pictures/stream_.jpg` and rename it to `stream_back.jpg`. After that, the software should work without errors.
+
+This bug requires rebuilding the application logic and a lot of time, so as a quick solution - what is written above.
+
+Enjoy using :)
+
 ### :bookmark_tabs: Licence ###
 Holography Server is [CC BY-NC-SA 3.0 licensed](./LICENSE).
