@@ -20,7 +20,7 @@ The server part of the software receives a video stream from the client part and
 
 This animation demonstrates scenarios for using the `Holography-Chat`.<br>
 <p align="center">
-  <img src="./resources/Holography-Chat.gif" alt="animated" />
+  <img src="./resources/Holography-Chat.gif" alt="animated"/>
 </p>
 
 
